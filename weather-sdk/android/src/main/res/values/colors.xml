@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loader_bg">#20000000</color>
+    <color name="weather_fragment_bg">#FFFFFF</color>
+    <color name="weather_item_bg">#F6FAFE</color>
+    <color name="weather_item_divider">#C1C7CE</color>
+
+</resources>
