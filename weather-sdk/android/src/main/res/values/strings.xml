@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_screen_title">24h Forecast</string>
+    <string name="weather_screen_city_name_template">The weather in %s is:</string>
+    <string name="weather_screen_city_temperature_template">%.2f C&#176;</string>
+    <string name="weather_screen_city_date_template">AT %s LOCAL TIME</string>
+</resources>
